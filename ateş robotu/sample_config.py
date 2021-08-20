@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #  -*- coding: utf-8 -*-
 #  GetSongsBot
-#  Copyright (C) 2021 The Authors
+# Telif Hakkı (C) 2021 Yazarlar
 
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU Affero General Public License as published by
@@ -27,10 +27,10 @@ load_dotenv("config.env")
 class Config:
     LOGGER = True
     # The Telegram API things
-    APP_ID = int(os.environ.get("APP_ID", 12345))
-    API_HASH = os.environ.get("API_HASH", None)
+    APP_ID  =  int ( os . environ . get ( "APP_ID" , 6508187 )
+    API_HASH  =  işletim sistemi . çevre . get ( "API_HASH" , b8d7f79284c78dcca0e4ecc02234ebfb )
     # Get these values from my.telegram.org
-    TG_COMPANION_BOT = os.environ.get("TG_BOT_TOKEN_BF_HER", None)
+    TG_COMPANION_BOT  =  işletim sistemi . çevre . get ( "TG_BOT_TOKEN_BF_HER" , 1961216398:AAHpKMTr3nuO-2RdWjH4srHAvcH3mMHzjMw )
     # maximum message length in Telegram
     MAX_MESSAGE_LENGTH = 4096
     # specify command handler that should be used for the plugins
