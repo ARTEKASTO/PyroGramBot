@@ -1,5 +1,5 @@
 {
-  "name": "PyroGramBot",
+  "name": "banGuard_bot",
   "description": "PyroGram Telegram User / Bot. Powered by @UserBotTalk",
   "keywords": [
     "telegram",
@@ -50,5 +50,5 @@
       "quantity": 1,
       "size": "free"
     }
-  }
+  }.                  
 }
