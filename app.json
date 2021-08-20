@@ -21,13 +21,13 @@
       "value": "ANYTHING"
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "6508187"
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "b8d7f79284c78dcca0e4ecc02234ebfb"
     },
     "TG_BOT_TOKEN_BF_HER": {
-      "description": "Get this value from @BotFather"
+      "description": "1961216398:AAHpKMTr3nuO-2RdWjH4srHAvcH3mMHzjMw"
     },
     "COMMAND_HAND_LER": {
       "description": "specify command handler that should be used for the plugins",
